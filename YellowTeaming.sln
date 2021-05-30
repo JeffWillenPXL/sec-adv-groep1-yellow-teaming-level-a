@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YellowTeaming.Api", "YellowTeaming.Api\YellowTeaming.Api.csproj", "{1204A8FF-FBD4-4633-A392-62C1B6C0DF21}"
+	ProjectSection(ProjectDependencies) = postProject
+		{32338D04-56FC-46F9-935C-EA358B2B447A} = {32338D04-56FC-46F9-935C-EA358B2B447A}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YellowTeaming.Data", "YellowTeaming.Data\YellowTeaming.Data.csproj", "{32338D04-56FC-46F9-935C-EA358B2B447A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YellowTeaming.Client", "YellowTeaming.Client\YellowTeaming.Client.csproj", "{CE1DB310-1685-40A8-8DF6-7CA44154B3EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1204A8FF-FBD4-4633-A392-62C1B6C0DF21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1204A8FF-FBD4-4633-A392-62C1B6C0DF21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1204A8FF-FBD4-4633-A392-62C1B6C0DF21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1204A8FF-FBD4-4633-A392-62C1B6C0DF21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32338D04-56FC-46F9-935C-EA358B2B447A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32338D04-56FC-46F9-935C-EA358B2B447A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32338D04-56FC-46F9-935C-EA358B2B447A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32338D04-56FC-46F9-935C-EA358B2B447A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE1DB310-1685-40A8-8DF6-7CA44154B3EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE1DB310-1685-40A8-8DF6-7CA44154B3EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE1DB310-1685-40A8-8DF6-7CA44154B3EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE1DB310-1685-40A8-8DF6-7CA44154B3EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {110C45E7-3E6D-46B7-AA99-0E1A0EF49655}
+	EndGlobalSection
+EndGlobal

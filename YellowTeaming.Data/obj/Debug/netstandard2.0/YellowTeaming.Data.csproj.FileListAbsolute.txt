@@ -1,0 +1,9 @@
+C:\Users\jeffw\source\repos\YellowTeaming\YellowTeaming.Data\bin\Debug\netstandard2.0\YellowTeaming.Data.deps.json
+C:\Users\jeffw\source\repos\YellowTeaming\YellowTeaming.Data\bin\Debug\netstandard2.0\YellowTeaming.Data.dll
+C:\Users\jeffw\source\repos\YellowTeaming\YellowTeaming.Data\bin\Debug\netstandard2.0\YellowTeaming.Data.pdb
+C:\Users\jeffw\source\repos\YellowTeaming\YellowTeaming.Data\obj\Debug\netstandard2.0\YellowTeaming.Data.csprojAssemblyReference.cache
+C:\Users\jeffw\source\repos\YellowTeaming\YellowTeaming.Data\obj\Debug\netstandard2.0\YellowTeaming.Data.AssemblyInfoInputs.cache
+C:\Users\jeffw\source\repos\YellowTeaming\YellowTeaming.Data\obj\Debug\netstandard2.0\YellowTeaming.Data.AssemblyInfo.cs
+C:\Users\jeffw\source\repos\YellowTeaming\YellowTeaming.Data\obj\Debug\netstandard2.0\YellowTeaming.Data.csproj.CoreCompileInputs.cache
+C:\Users\jeffw\source\repos\YellowTeaming\YellowTeaming.Data\obj\Debug\netstandard2.0\YellowTeaming.Data.dll
+C:\Users\jeffw\source\repos\YellowTeaming\YellowTeaming.Data\obj\Debug\netstandard2.0\YellowTeaming.Data.pdb

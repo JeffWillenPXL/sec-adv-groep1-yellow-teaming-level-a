@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Rasn7yV67rEH53XCgk/ovHAqdd6CWCk3EWJE6bFgKjqR6834bbl73fIJkScy4oM0+N1g4XY06j/4xNn+6EWBDw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jeffw\\source\\repos\\YellowTeaming\\YellowTeaming.Data\\YellowTeaming.Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jeffw\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\jeffw\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
